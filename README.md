@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikshvaku24&label=Profile%20views&color=0e75b6&style=flat" alt="ikshvaku24" /> </p>
 
-- 🌱 I’m currently learning **DSA and Frontend Web Development**
+- 🌱 I’m currently learning **DSA and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ikshvaku24](https://github.com/Ikshvaku24)
 
