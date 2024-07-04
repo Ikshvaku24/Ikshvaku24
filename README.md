@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ikshvaku24](https://github.com/Ikshvaku24)
+- 👨‍💻 All of my projects are available at [https://github.com/Ikshvaku24?tab=repositories](https://github.com/Ikshvaku24?tab=repositories)
 
 - 💬 Ask me about **DSA**
 
