@@ -15,9 +15,9 @@
 
 <h2>⚡ A Few Quick Facts</h2>
 <ul>
-  <li>🌱 Continuously learning and experimenting with new technologies in AI and ML.</li>
-  <li>👨‍💻 Passionate about problem solving, algorithm design, and optimizing workflows.</li>
-  <li>💬 Always up for discussions on AI, deep learning frameworks, or innovative tech ideas.</li>
+  <li>🏆 Selected for the Amazon ML Summer School, ranking in the top 3,000 out of 60,000+ participants.</li>
+  <li>💡 Led a team to develop a 90%-accurate ML model for the Smart India Hackathon.</li>
+  <li>🔧 Contributed as an Open-Source Contributor during Social Summer of Code’23 Hack2Skill, enhancing 5 projects by merging pull requests and resolving critical issues.</li>
 </ul>
 
 ---
