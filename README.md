@@ -1,26 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ikshvaku</h1>
-<h3 align="center">A problem solver</h3>
-<img align="right" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Girl in a jacket" width="400" height="400">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikshvaku24&label=Profile%20views&color=0e75b6&style=flat" alt="ikshvaku24" /> </p>
-
-- 🌱 I’m currently learning **DSA and Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ikshvaku24?tab=repositories](https://github.com/Ikshvaku24?tab=repositories)
-
-- 💬 Ask me about **DSA**
-
-- 📫 How to reach me **https://www.linkedin.com/in/ikshvaku-rastogi-25a818215/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ikshvaku-rastogi-25a818215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ikshvaku-rastogi-25a818215/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ikshvaku24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ikshvaku24/" height="30" width="40" /></a>
+<h2>Hey 👋, I'm Ikshvaku</h2>
+<p>
+  I'm passionate about leveraging AI and technology to drive innovation and create a positive impact. As a final-year undergraduate, I'm actively building my career at the intersection of AI and entrepreneurship.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  🤖 Currently, I'm building <strong>Stremly</strong>—an AI-based startup focused on streamlining multi-agent AI workflows.
+  <br>
+  🔍 I'm also exploring advanced deep learning techniques to push the boundaries of AI applications.
+</p>
 
+<p>This is my GitHub profile, where you'll find my code related to deep learning and various exciting projects.</p>
 
-- Collaborating in
-<img src=https://github.com/Ikshvaku24/Ikshvaku24/assets/111303252/dde09fa4-5f67-4109-b88e-b40eb78d36b4 alt="SSOC Badge" width="80" height="80"  >
+---
+
+<h2>⚡ A Few Quick Facts</h2>
+<ul>
+  <li>🌱 Continuously learning and experimenting with new technologies in AI and ML.</li>
+  <li>👨‍💻 Passionate about problem solving, algorithm design, and optimizing workflows.</li>
+  <li>💬 Always up for discussions on AI, deep learning frameworks, or innovative tech ideas.</li>
+</ul>
+
+---
+
+<h2>🛠️ Skills & Technologies</h2>
+<p>
+  I'm proficient in deep learning frameworks such as TensorFlow and PyTorch, with a robust foundation in Python programming. I have hands-on experience with MLOps practices including CI/CD for ML, containerization (Docker), and I enjoy integrating full-stack solutions to support scalable generative AI applications.
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" alt="Languages and Tools" />
+  </a>
+</p>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+<p>
+  <a href="https://github.com/Ikshvaku24">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ikshvaku24&hide_border=true&show_icons=true" alt="Ikshvaku's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ikshvaku24">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ikshvaku24&layout=compact&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+<h2>📫 Connect with Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/ikshvaku-rastogi-25a818215/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ikshvaku24">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/ikshvaku24/">
+    <img src="https://img.shields.io/badge/-LeetCode-F89F1B?style=flat-square&logo=leetcode" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+<h2>🚀 Let's Collaborate!</h2>
+<p>
+  I'm always open to new ideas, collaborations, and learning opportunities. Feel free to reach out if you have any questions or project ideas!
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ikshvaku24/count.svg" alt="Visitor Count" />
+</p>
